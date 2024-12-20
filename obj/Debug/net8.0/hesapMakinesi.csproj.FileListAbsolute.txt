@@ -1,0 +1,14 @@
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/bin/Debug/net8.0/hesapMakinesi
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/bin/Debug/net8.0/hesapMakinesi.deps.json
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/bin/Debug/net8.0/hesapMakinesi.runtimeconfig.json
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/bin/Debug/net8.0/hesapMakinesi.dll
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/bin/Debug/net8.0/hesapMakinesi.pdb
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.AssemblyInfoInputs.cache
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.AssemblyInfo.cs
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.csproj.CoreCompileInputs.cache
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.dll
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/refint/hesapMakinesi.dll
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.pdb
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/hesapMakinesi.genruntimeconfig.cache
+/Users/mehmetemincinar/Desktop/işler/full stack eğitim/cs/pratikler/hesapMakinesi/obj/Debug/net8.0/ref/hesapMakinesi.dll
